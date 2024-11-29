@@ -1,8 +1,6 @@
 Criptografía:
 El cifrado es el procedimiento que hace uso de un algoritmo y llave/clave, de cifrado para transformar la información de forma incomprensible o como mínimo difícil de comprender para las personas que no tengan la llave/clave para descifrar.
 
-Concepto de Redes:
-Es un conjunto de dispositivos interconectados entre sí a través de un medio, que intercambian información y comparten recursos. Básicamente, la comunicación dentro de una red informática es un proceso en el que existen dos roles bien definidos para los dispositivos conectados, emisor y receptor, que se van asumiendo y alternando en distintos instantes de tiempo.
 
 Arquitectura E/S: 
 Las principales razones de uso de una interfaz son: Existen una gran variedad de periféricos con normas de funcionamiento diferentes y resultaría imposible implementar en el procesador tal diversidad de controladores.
