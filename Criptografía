@@ -1,6 +1,2 @@
 Criptografía:
 El cifrado es el procedimiento que hace uso de un algoritmo y llave/clave, de cifrado para transformar la información de forma incomprensible o como mínimo difícil de comprender para las personas que no tengan la llave/clave para descifrar.
-
-
-Arquitectura E/S: 
-Las principales razones de uso de una interfaz son: Existen una gran variedad de periféricos con normas de funcionamiento diferentes y resultaría imposible implementar en el procesador tal diversidad de controladores.
