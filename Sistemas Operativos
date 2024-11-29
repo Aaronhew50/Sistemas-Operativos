@@ -1,9 +1,6 @@
 Criptografía:
 El cifrado es el procedimiento que hace uso de un algoritmo y llave/clave, de cifrado para transformar la información de forma incomprensible o como mínimo difícil de comprender para las personas que no tengan la llave/clave para descifrar.
 
-Sistemas Archivos Distribuidos:
-Un sistema distribuido es aquel en el que los componentes localizados en computadores independientes, conectados en red, comunican y coordinan sus acciones, únicamente mediante el paso de mensajes, con el fin de realizar una o varias tareas.
-
 Estructura de almacenamiento Masivo:
 Para poder ejecutarse los programas deben estar en memoria principal, que es la única gran área de almacenamiento a que el procesador puede acceder directamente. Es una matriz de palabras (comúnmente 32 o 64 bits), donde cada palabra tiene su propia dirección.
 
