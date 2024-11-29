@@ -1,0 +1,2 @@
+Estructura de almacenamiento Masivo:
+Para poder ejecutarse los programas deben estar en memoria principal, que es la única gran área de almacenamiento a que el procesador puede acceder directamente. Es una matriz de palabras (comúnmente 32 o 64 bits), donde cada palabra tiene su propia dirección.
