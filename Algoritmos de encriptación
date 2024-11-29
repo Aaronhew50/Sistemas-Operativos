@@ -1,16 +1,16 @@
 Los 5 mejores algoritmos de encriptación:
 
 1. AES-256 (Advanced Encryption Standard):
-El AES-256 es un algoritmo de encriptación simétrica de clave secreta que se ha convertido en el estándar de facto para la protección de datos a nivel gubernamental y empresarial.
+El AES-256 es un algoritmo de encriptación simétrica de clave secreta que se ha convertido en el estándar de facto para la protección de datos a nivel gubernamental y empresarial. Trabaja en 256 bits.
 
 2. RSA (Rivest-Shamir-Adleman):
-RSA es un algoritmo de encriptación asimétrica o de clave pública que se ha utilizado ampliamente en aplicaciones de comercio electrónico, comunicaciones seguras y firmas digitales.
+RSA es un algoritmo de encriptación asimétrica o de clave pública que se ha utilizado ampliamente en aplicaciones de comercio electrónico, comunicaciones seguras y firmas digitales. Trabaja en 8192 bits.
 
 3. Curvas Elípticas (ECC):
-La criptografía de curvas elípticas (ECC) es una alternativa a RSA que se basa en la complejidad matemática de las curvas elípticas.
+La criptografía de curvas elípticas (ECC) es una alternativa a RSA que se basa en la complejidad matemática de las curvas elípticas. Trabaja en 224, 256, 384, 521 bits.
 
 4. Argon2:
-Argon2 es un algoritmo de hashing diseñado específicamente para proteger contraseñas y otras credenciales sensibles. Argon2 es mucho más resistente a ataques de fuerza bruta y "rainbow tables".
+Argon2 es un algoritmo de hashing diseñado específicamente para proteger contraseñas y otras credenciales sensibles. Argon2 es mucho más resistente a ataques de fuerza bruta y "rainbow tables". Este no trabaja en bits sino en cantidad de memoria y cantidad de iteraciones. 
 
 5. ChaCha20-Poly1305
-ChaCha20-Poly1305 es un algoritmo de encriptación de flujo y autenticación de mensajes que se ha vuelto cada vez más popular en los últimos años. ChaCha20-Poly1305 está diseñado para ser extremadamente rápido y eficiente, lo que lo convierte en una opción ideal para aplicaciones que requieren un alto rendimiento, como VoIP, transmisión de video y comunicaciones móviles.
+ChaCha20-Poly1305 es un algoritmo de encriptación de flujo y autenticación de mensajes que se ha vuelto cada vez más popular en los últimos años. ChaCha20-Poly1305 está diseñado para ser extremadamente rápido y eficiente, lo que lo convierte en una opción ideal para aplicaciones que requieren un alto rendimiento, como VoIP, transmisión de video y comunicaciones móviles. Trabaja en 256 bits.
